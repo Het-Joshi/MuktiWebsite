@@ -43,7 +43,7 @@ body {
 .img-fluid {
     max-width: 100%;
     height: auto;
-    border: 2px solid #ff5722; /* Indian flag saffron color */
+    border: 2px solid /* Indian flag saffron color */
     border-radius: 10px;
 }
 
